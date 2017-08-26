@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "http://localhost:4873/"
+    "registry": "http://192.168.56.103:4873/"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
